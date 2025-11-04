@@ -1,1 +1,1 @@
-# Implement-Protected-Routes-with-JWT-Verification
+# Implement-Protected-Routes-with-JWT-Verification<img width="1536" height="1024" alt="398c54c8-2cd0-496d-aa63-f5ccd22d1e41" src="https://github.com/user-attachments/assets/aa281dd0-836b-480c-a61f-e7c101a64410" />
